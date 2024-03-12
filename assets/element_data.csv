@@ -1,0 +1,4 @@
+position, symbol, number, player_owns, png
+1:1,H,1,False,molecule1.png
+1:18,He,2,False,molecule2.png
+2:1,Li,3,False,molecule3.png
